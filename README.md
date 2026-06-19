@@ -107,4 +107,20 @@ CodeAlpha\_EDA/
 \* Genre-based trend analysis
 
 
+## Visualizations
 
+### Movies vs TV Shows
+
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Top 10 Countries
+
+![Top Countries](images/Top_10_Countries.png)
+
+### Content Growth
+
+![Content Growth](images/Netflix_Content_Growth.png)
+
+### Ratings Distribution
+
+![Ratings Distribution](images/Ratings_Distribution.png)
